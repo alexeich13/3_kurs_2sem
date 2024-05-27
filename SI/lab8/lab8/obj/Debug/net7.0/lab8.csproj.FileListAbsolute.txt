@@ -1,0 +1,14 @@
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\bin\Debug\net7.0\lab8.exe
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\bin\Debug\net7.0\lab8.deps.json
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\bin\Debug\net7.0\lab8.runtimeconfig.json
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\bin\Debug\net7.0\lab8.dll
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\bin\Debug\net7.0\lab8.pdb
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\obj\Debug\net7.0\lab8.GeneratedMSBuildEditorConfig.editorconfig
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\obj\Debug\net7.0\lab8.AssemblyInfoInputs.cache
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\obj\Debug\net7.0\lab8.AssemblyInfo.cs
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\obj\Debug\net7.0\lab8.csproj.CoreCompileInputs.cache
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\obj\Debug\net7.0\lab8.dll
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\obj\Debug\net7.0\refint\lab8.dll
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\obj\Debug\net7.0\lab8.pdb
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\obj\Debug\net7.0\lab8.genruntimeconfig.cache
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab8\lab8\obj\Debug\net7.0\ref\lab8.dll

@@ -1,0 +1,41 @@
+﻿  Hemming.cpp
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(91,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(92,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(94,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(107,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(115,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(116,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(125,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(131,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(132,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(10,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(18,8): warning C4018: >: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(18,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(29,8): warning C4018: >: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(29,18): warning C4018: >: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(30,17): warning C4018: >: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(30,36): warning C4018: >: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(61,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(74,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(92,8): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(97,13): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(100,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(119,10): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(131,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(167,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.cpp(188,20): warning C4018: <: несоответствие типов со знаком и без знака
+  lab3.cpp
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(91,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(92,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(94,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(106,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(107,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(115,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(116,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(125,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(131,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\lab3\Hemming.h(132,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  lab3.vcxproj -> C:\BSTU\3 kurs\3 kurs 2 sem\SI\lab3\x64\Debug\lab3.exe

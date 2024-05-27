@@ -1,0 +1,4 @@
+﻿  NTP protocol-server.cpp
+C:\BSTU\3 kurs\3 kurs 2 sem\RIS\lb1_2\lab1\NTP protocol-server\NTP protocol-server.cpp(53,24): warning C4307: "*": переполнение целой константы со знаком
+C:\BSTU\3 kurs\3 kurs 2 sem\RIS\lb1_2\lab1\NTP protocol-server\NTP protocol-server.cpp(74,21): warning C4309: =: усечение константного значения
+  NTP protocol-server.vcxproj -> C:\BSTU\3 kurs\3 kurs 2 sem\RIS\lb1_2\lab1\x64\Debug\NTP protocol-server.exe

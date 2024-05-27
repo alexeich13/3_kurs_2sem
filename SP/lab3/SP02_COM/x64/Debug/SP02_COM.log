@@ -1,0 +1,34 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\dllmain.cpp(62,9): error C2065: MathFactory: необъявленный идентификатор
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\dllmain.cpp(62,22): error C2065: pF: необъявленный идентификатор
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\dllmain.cpp(65,19): error C2065: pF: необъявленный идентификатор
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\dllmain.cpp(65,28): error C2061: синтаксическая ошибка: идентификатор "MathFactory"
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\dllmain.cpp(68,18): error C2065: pF: необъявленный идентификатор
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\dllmain.cpp(69,13): error C2065: pF: необъявленный идентификатор
+  MathFactory.cpp
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(8,1): error C2653: MathFactory: не является именем класса или пространства имен
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(8,28): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(8,40): error C2550: MathFactory: список инициализации конструктора должен использоваться только в месте определения конструктора
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(9,1): warning C4508: MathFactory: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(11,1): error C2653: MathFactory: не является именем класса или пространства имен
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(11,29): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(12,1): warning C4508: {dtor}: функция должна возвращать значение; предполагается возвращаемый тип "void"
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(15,34): error C2653: MathFactory: не является именем класса или пространства имен
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(18,27): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(20,32): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(26,9): error C3861: AddRef: идентификатор не найден
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(34,22): error C2653: MathFactory: не является именем класса или пространства имен
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(35,27): error C2065: m_lRef: необъявленный идентификатор
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(36,12): error C2065: m_lRef: необъявленный идентификатор
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(39,22): error C2653: MathFactory: не является именем класса или пространства имен
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(40,27): error C2065: m_lRef: необъявленный идентификатор
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(41,9): error C2065: m_lRef: необъявленный идентификатор
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(43,16): error C2355: "this": может указываться только в нестатических членах-функциях или инициализаторах нестатических членов данных
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(47,16): error C2065: m_lRef: необъявленный идентификатор
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(51,14): error C2653: MathFactory: не является именем класса или пространства имен
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\MathFactory.cpp(72,15): error C2653: MathFactory: не является именем класса или пространства имен
+  Reristry.cpp
+C:\BSTU\3 kurs\3 kurs 2 sem\SP\lab3\SP02_COM\Reristry.cpp(77,24): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  SP02.cpp
+  Создание кода...

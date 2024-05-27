@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Email Sender</title>
+    <style>
+    </style>
+</head>
+<body>
+<h1>Email Sender</h1>
+<form action="/send" method="post">
+    <label for="sender">Sender Email:</label>
+    <input type="email" name="sender" id="sender" required><br>
+
+    <label for="receiver">Receiver Email:</label>
+    <input type="email" name="receiver" id="receiver" required><br>
+
+    <label for="message">Message:</label><br>
+    <textarea name="message" id="message" rows="4" required></textarea><br>
+
+    <button type="submit">Send Email</button>
+</form>
+</body>
+</html>
